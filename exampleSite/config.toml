@@ -65,39 +65,39 @@ enableEmoji = true
         url = "/categories/"
         title = ""
         weight = 3
-      [[languages.en.menu.main]]
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
-        weight = 4
-      [[languages.en.menu.main]]
-        identifier = "about"
-        pre = ""
-        post = ""
-        name = "About"
-        url = "/about/"
-        title = ""
-        weight = 5
-      [[languages.en.menu.main]]
-        identifier = "github"
-        pre = "<i class='fab fa-github fa-fw'></i>"
-        post = ""
-        name = ""
-        url = "https://github.com/upagge/ublogger"
-        title = "GitHub"
-        weight = 6
+      #[[languages.en.menu.main]]
+    #    identifier = "documentation"
+      #  pre = ""
+      #  post = ""
+       # name = "Docs"
+       # url = "/categories/documentation/"
+       # title = ""
+       # weight = 4
+      #[[languages.en.menu.main]]
+       # identifier = "about"
+       # pre = ""
+       # post = ""
+       # name = "About"
+       # url = "/about/"
+       # title = ""
+       # weight = 5
+      #[[languages.en.menu.main]]
+        # identifier = "github"
+       # pre = "<i class='fab fa-github fa-fw'></i>"
+       # post = ""
+       # name = ""
+       # url = "https://github.com/upagge/ublogger"
+       # title = "GitHub"
+       # weight = 6
     [languages.en.params]
       # site description
-      description = "About uBlogger Theme"
+      description = "Off the wall"
       # site keywords
       keywords = ["Theme", "Hugo"]
       # App icon config
       [languages.en.params.app]
         # optional site title override for the app when added to an iOS home screen or Android launcher
-        title = "uBlogger"
+        title = "Off the wall"
         # whether to omit favicon resource links
         noFavicon = false
         # modern SVG favicon to use in place of older style .png and .ico files
@@ -135,7 +135,7 @@ enableEmoji = true
         rss = 10
         # Home page profile
         [languages.en.params.home.profile]
-          enable = true
+          enable = false
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
