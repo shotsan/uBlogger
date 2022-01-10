@@ -261,7 +261,7 @@ enableEmoji = true
       logo = ""
       # title name
       # 标题名称
-      name = "uBlogger"
+      name = "Off the wall!"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = "<i class='fas fa-pencil-alt fa-fw'></i>"
@@ -293,7 +293,7 @@ enableEmoji = true
     icp = ""
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
-    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank"> </a>'
 
   # Section (all posts) page config
   # Section (所有文章) 页面配置
@@ -324,7 +324,7 @@ enableEmoji = true
   # Comment config
   # 评论系统设置
   [params.comment]
-    enable = true
+    enable = false
     [params.comment.remark42]
       enable = true
       host = "https://comments.upagge.ru"
