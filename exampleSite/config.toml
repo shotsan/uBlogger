@@ -1,4 +1,4 @@
-baseURL = "https://ublogger.netlify.app/"
+baseURL = "https://offthewall.me"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -11,7 +11,7 @@ themesDir = "../.."
 
 # website title
 # 网站标题
-title = "uBlogger"
+title = "Off the wall!"
 
 # whether to use robots.txt
 # 是否使用 robots.txt
